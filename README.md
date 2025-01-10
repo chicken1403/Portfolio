@@ -1,5 +1,3 @@
-# dalelarroder.com ⚡️
-
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Deployment**: [Vercel](https://vercel.com)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -13,13 +11,13 @@
 1. Clone this repo
 
 ```bash
-git clone git@github.com:dlarroder/dalelarroder.git
+git clone
 ```
 
 2. Change directory
 
 ```sh
-cd dalelarroder
+cd 
 ```
 
 3. Install dependencies

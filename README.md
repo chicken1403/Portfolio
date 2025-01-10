@@ -28,7 +28,7 @@ cd dalelarroder
 bun install
 ```
 
-1. Create a `.env.local` file following the `.env.example`
+4. Create a `.env.local` file following the `.env.example`
 
 ```bash
 cp .env.example .env.local
@@ -43,20 +43,10 @@ SPOTIFY_CLIENT_ID=<Your env>
 // ...
 ```
 
-6. Run the development server
+5. Run the development server
 
 ```bash
 bun run dev
 ```
 
-## Previous Version
 
-This is the second version of my website.
-
-Prevoius v1 version:
-
-- https://v1.dalelarroder.com/
-
-## Licence
-
-[MIT](https://github.com/dlarroder/dalelarroder/blob/master/LICENSE) © [Dale Larroder](https://www.dalelarroder.com)
